@@ -5,3 +5,14 @@
 	margin-top: 5%;
 	width: 50%;
 }
+
+#driverForm {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+h1 {
+	text-align: center;
+}
